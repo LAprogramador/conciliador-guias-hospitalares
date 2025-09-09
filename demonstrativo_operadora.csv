@@ -1,0 +1,289 @@
+numero_guia,convenio,data_processamento,paciente,procedimento,valor_pago,status_operadora,motivo_glosa
+GH2024000001,Amil,2025-08-26 20:04:29.051120,Paciente 001,Colesterol Total,944.44,Pago com Divergência,Co-participação aplicada
+GH2024000002,SulAmerica,2025-09-05 20:04:29.052040,Paciente 002,Endoscopia,533.88,Pago,
+GH2024000004,Unimed,2025-08-31 20:04:29.052202,Paciente 004,Glicemia,810.9,Pago,
+GH2024000005,SulAmerica,2025-08-30 20:04:29.052304,Paciente 005,Ureia e Creatinina,1461.95,Pago,
+GH2024000006,SulAmerica,2025-08-31 20:04:29.052392,Paciente 006,Tomografia,1475.68,Pago,
+GH2024000007,NotreDame,2025-08-28 20:04:29.052478,Paciente 007,Tomografia,55.38,Pago com Divergência,Valor não conferido
+GH2024000009,Amil,2025-08-26 20:04:29.052682,Paciente 009,Ultrassom Abdomen,1368.51,Pago,
+GH2024000010,Bradesco,2025-08-28 20:04:29.052769,Paciente 010,Ressonancia Magnetica,842.73,Pago,
+GH2024000012,Amil,2025-09-05 20:04:29.052915,Paciente 012,Endoscopia,1274.57,Pago,
+GH2024000013,Bradesco,2025-08-28 20:04:29.053004,Paciente 013,Ureia e Creatinina,0.0,Glosado,Falta de documentação
+GH2024000014,NotreDame,2025-09-04 20:04:29.053111,Paciente 014,Hemograma Completo,1036.69,Pago com Divergência,Co-participação aplicada
+GH2024000015,SulAmerica,2025-09-02 20:04:29.053248,Paciente 015,Consulta Cardiologia,1081.45,Pago,
+GH2024000016,Bradesco,2025-09-04 20:04:29.053334,Paciente 016,Glicemia,0.0,Glosado,Prazo de envio vencido
+GH2024000017,NotreDame,2025-09-07 20:04:29.053437,Paciente 017,Ureia e Creatinina,682.12,Pago com Divergência,Valor não conferido
+GH2024000018,SulAmerica,2025-09-07 20:04:29.053573,Paciente 018,Consulta Ortopedia,863.85,Pago,
+GH2024000019,Unimed,2025-08-31 20:04:29.053658,Paciente 019,Glicemia,86.86,Pago,
+GH2024000020,Amil,2025-08-29 20:04:29.053740,Paciente 020,Raio-X Torax,1365.97,Pago,
+GH2024000021,SulAmerica,2025-09-08 20:04:29.053823,Paciente 021,Raio-X Torax,1417.14,Pago,
+GH2024000022,Amil,2025-09-05 20:04:29.053907,Paciente 022,Glicemia,1221.77,Pago,
+GH2024000023,Amil,2025-08-30 20:04:29.053991,Paciente 023,Colesterol Total,520.3,Pago,
+GH2024000024,Unimed,2025-09-02 20:04:29.054073,Paciente 024,Colesterol Total,669.31,Pago,
+GH2024000025,SulAmerica,2025-09-03 20:04:29.054156,Paciente 025,Consulta Ortopedia,1054.03,Pago,
+GH2024000026,SulAmerica,2025-09-03 20:04:29.054242,Paciente 026,Endoscopia,1069.38,Pago,
+GH2024000027,Amil,2025-09-05 20:04:29.054331,Paciente 027,Tomografia,771.01,Pago,
+GH2024000028,Unimed,2025-09-08 20:04:29.054413,Paciente 028,Exame ECG,646.0,Pago,
+GH2024000029,SulAmerica,2025-09-07 20:04:29.054496,Paciente 029,Consulta Ortopedia,759.71,Pago,
+GH2024000030,SulAmerica,2025-08-26 20:04:29.054579,Paciente 030,Colesterol Total,401.13,Pago,
+GH2024000031,Bradesco,2025-08-26 20:04:29.054662,Paciente 031,Ressonancia Magnetica,0.0,Glosado,Código incorreto
+GH2024000032,NotreDame,2025-09-05 20:04:29.054766,Paciente 032,Raio-X Torax,574.9,Pago com Divergência,Desconto contratual
+GH2024000033,SulAmerica,2025-09-07 20:04:29.054902,Paciente 033,Tomografia,302.83,Pago,
+GH2024000034,Unimed,2025-09-06 20:04:29.054985,Paciente 034,Ureia e Creatinina,1116.06,Pago,
+GH2024000035,Amil,2025-09-05 20:04:29.055070,Paciente 035,Glicemia,1474.14,Pago,
+GH2024000036,Unimed,2025-08-30 20:04:29.055153,Paciente 036,Ureia e Creatinina,859.53,Pago,
+GH2024000037,SulAmerica,2025-08-31 20:04:29.055235,Paciente 037,Ultrassom Abdomen,1033.34,Pago com Divergência,Valor tabela diferente
+GH2024000038,Amil,2025-08-26 20:04:29.055368,Paciente 038,Endoscopia,0.0,Glosado,Falta de documentação
+GH2024000039,Unimed,2025-09-03 20:04:29.055471,Paciente 039,Exame ECG,283.17,Pago,
+GH2024000040,Unimed,2025-09-05 20:04:29.055554,Paciente 040,Consulta Cardiologia,60.97,Pago com Divergência,Valor tabela diferente
+GH2024000041,SulAmerica,2025-08-27 20:04:29.055686,Paciente 041,Consulta Cardiologia,669.34,Pago com Divergência,Valor não conferido
+GH2024000042,NotreDame,2025-09-05 20:04:29.055823,Paciente 042,Ressonancia Magnetica,1363.84,Pago,
+GH2024000043,Unimed,2025-09-05 20:04:29.055907,Paciente 043,Consulta Cardiologia,333.1,Pago,
+GH2024000044,SulAmerica,2025-08-28 20:04:29.055990,Paciente 044,Consulta Cardiologia,1492.1,Pago,
+GH2024000046,SulAmerica,2025-08-27 20:04:29.056132,Paciente 046,Raio-X Torax,476.95,Pago,
+GH2024000047,SulAmerica,2025-09-05 20:04:29.056218,Paciente 047,Hemograma Completo,0.0,Glosado,Autorização inválida
+GH2024000048,Bradesco,2025-09-03 20:04:29.056322,Paciente 048,Ressonancia Magnetica,570.04,Pago,
+GH2024000049,Bradesco,2025-08-29 20:04:29.056405,Paciente 049,Endoscopia,1060.67,Pago,
+GH2024000050,NotreDame,2025-08-28 20:04:29.056488,Paciente 050,Tomografia,658.68,Pago,
+GH2024000051,Amil,2025-09-06 20:04:29.056570,Paciente 051,Tomografia,777.2,Pago,
+GH2024000052,Amil,2025-09-07 20:04:29.056652,Paciente 052,Tomografia,90.04,Pago,
+GH2024000053,SulAmerica,2025-09-07 20:04:29.056734,Paciente 053,Glicemia,836.83,Pago,
+GH2024000054,Unimed,2025-09-07 20:04:29.056817,Paciente 054,Glicemia,1242.77,Pago,
+GH2024000055,Amil,2025-09-01 20:04:29.056899,Paciente 055,Ureia e Creatinina,953.19,Pago,
+GH2024000056,SulAmerica,2025-09-02 20:04:29.056984,Paciente 056,Endoscopia,1102.83,Pago,
+GH2024000057,SulAmerica,2025-09-06 20:04:29.057067,Paciente 057,Endoscopia,442.71,Pago,
+GH2024000058,Bradesco,2025-08-28 20:04:29.057151,Paciente 058,Tomografia,671.06,Pago,
+GH2024000059,Bradesco,2025-09-06 20:04:29.057233,Paciente 059,Exame ECG,397.69,Pago,
+GH2024000060,NotreDame,2025-08-28 20:04:29.057318,Paciente 060,Tomografia,1002.81,Pago,
+GH2024000061,Amil,2025-09-05 20:04:29.057399,Paciente 061,Ultrassom Abdomen,1148.88,Pago,
+GH2024000063,NotreDame,2025-09-02 20:04:29.057543,Paciente 063,Raio-X Torax,210.8,Pago com Divergência,Valor tabela diferente
+GH2024000064,Bradesco,2025-08-28 20:04:29.057679,Paciente 064,Consulta Ortopedia,1335.69,Pago,
+GH2024000065,SulAmerica,2025-09-07 20:04:29.057762,Paciente 065,Consulta Cardiologia,582.47,Pago com Divergência,Valor não conferido
+GH2024000066,Bradesco,2025-08-27 20:04:29.057896,Paciente 066,Ureia e Creatinina,899.37,Pago,
+GH2024000067,SulAmerica,2025-08-29 20:04:29.057979,Paciente 067,Consulta Cardiologia,1226.25,Pago,
+GH2024000068,Unimed,2025-08-26 20:04:29.058062,Paciente 068,Endoscopia,1362.76,Pago,
+GH2024000069,Bradesco,2025-08-27 20:04:29.058144,Paciente 069,Exame ECG,1040.36,Pago,
+GH2024000070,Bradesco,2025-08-26 20:04:29.058230,Paciente 070,Glicemia,380.74,Pago com Divergência,Co-participação aplicada
+GH2024000071,Bradesco,2025-09-03 20:04:29.058363,Paciente 071,Exame ECG,961.97,Pago,
+GH2024000072,NotreDame,2025-09-04 20:04:29.058445,Paciente 072,Raio-X Torax,276.56,Pago com Divergência,Co-participação aplicada
+GH2024000073,Amil,2025-09-04 20:04:29.058579,Paciente 073,Consulta Cardiologia,1175.8,Pago,
+GH2024000074,NotreDame,2025-09-04 20:04:29.058662,Paciente 074,Hemograma Completo,395.44,Pago,
+GH2024000075,Unimed,2025-08-27 20:04:29.058745,Paciente 075,Colesterol Total,233.98,Pago com Divergência,Co-participação aplicada
+GH2024000076,SulAmerica,2025-09-05 20:04:29.058878,Paciente 076,Hemograma Completo,513.0,Pago,
+GH2024000077,Bradesco,2025-09-08 20:04:29.058961,Paciente 077,Consulta Ortopedia,182.97,Pago,
+GH2024000078,Amil,2025-09-04 20:04:29.059043,Paciente 078,Tomografia,1182.88,Pago,
+GH2024000079,Bradesco,2025-09-02 20:04:29.059125,Paciente 079,Glicemia,483.15,Pago com Divergência,Co-participação aplicada
+GH2024000080,Bradesco,2025-09-05 20:04:29.059259,Paciente 080,Ureia e Creatinina,1047.64,Pago,
+GH2024000081,NotreDame,2025-09-07 20:04:29.059342,Paciente 081,Glicemia,625.14,Pago,
+GH2024000082,NotreDame,2025-08-31 20:04:29.059425,Paciente 082,Ressonancia Magnetica,1480.63,Pago,
+GH2024000083,Amil,2025-08-27 20:04:29.059511,Paciente 083,Tomografia,1479.7,Pago,
+GH2024000084,SulAmerica,2025-09-04 20:04:29.059595,Paciente 084,Ressonancia Magnetica,1072.37,Pago,
+GH2024000086,SulAmerica,2025-09-08 20:04:29.059735,Paciente 086,Ureia e Creatinina,1445.15,Pago,
+GH2024000087,Unimed,2025-08-31 20:04:29.059818,Paciente 087,Consulta Ortopedia,1446.67,Pago,
+GH2024000088,NotreDame,2025-08-28 20:04:29.059900,Paciente 088,Ressonancia Magnetica,1390.73,Pago,
+GH2024000089,Unimed,2025-09-08 20:04:29.059982,Paciente 089,Consulta Cardiologia,959.96,Pago,
+GH2024000090,Unimed,2025-08-30 20:04:29.060063,Paciente 090,Ureia e Creatinina,1008.08,Pago com Divergência,Valor não conferido
+GH2024000091,Amil,2025-08-29 20:04:29.060197,Paciente 091,Endoscopia,296.04,Pago,
+GH2024000092,Amil,2025-09-01 20:04:29.060295,Paciente 092,Ureia e Creatinina,162.72,Pago,
+GH2024000093,Unimed,2025-09-01 20:04:29.060405,Paciente 093,Consulta Cardiologia,0.0,Glosado,Falta de documentação
+GH2024000094,NotreDame,2025-08-28 20:04:29.060519,Paciente 094,Ultrassom Abdomen,1242.68,Pago,
+GH2024000095,Unimed,2025-08-27 20:04:29.060602,Paciente 095,Glicemia,1402.46,Pago,
+GH2024000096,Unimed,2025-08-28 20:04:29.060685,Paciente 096,Consulta Cardiologia,746.54,Pago,
+GH2024000097,Unimed,2025-09-04 20:04:29.060775,Paciente 097,Colesterol Total,1271.07,Pago,
+GH2024000098,Unimed,2025-09-01 20:04:29.060862,Paciente 098,Tomografia,1303.85,Pago,
+GH2024000099,SulAmerica,2025-08-29 20:04:29.060945,Paciente 099,Tomografia,1165.03,Pago,
+GH2024000100,Unimed,2025-09-06 20:04:29.061030,Paciente 100,Hemograma Completo,237.28,Pago,
+GH2024000101,Unimed,2025-09-01 20:04:29.061112,Paciente 101,Endoscopia,946.29,Pago,
+GH2024000102,Bradesco,2025-09-05 20:04:29.061194,Paciente 102,Ressonancia Magnetica,1255.49,Pago,
+GH2024000103,Amil,2025-08-30 20:04:29.061282,Paciente 103,Colesterol Total,508.04,Pago com Divergência,Valor não conferido
+GH2024000104,NotreDame,2025-09-06 20:04:29.061423,Paciente 104,Exame ECG,1217.31,Pago,
+GH2024000105,Bradesco,2025-08-28 20:04:29.061507,Paciente 105,Exame ECG,618.75,Pago,
+GH2024000106,Unimed,2025-08-30 20:04:29.061590,Paciente 106,Consulta Cardiologia,1186.3,Pago,
+GH2024000107,SulAmerica,2025-08-26 20:04:29.061673,Paciente 107,Consulta Ortopedia,1204.88,Pago,
+GH2024000108,Unimed,2025-09-01 20:04:29.061755,Paciente 108,Endoscopia,81.55,Pago com Divergência,Co-participação aplicada
+GH2024000109,SulAmerica,2025-08-28 20:04:29.061890,Paciente 109,Colesterol Total,160.0,Pago,
+GH2024000110,SulAmerica,2025-09-01 20:04:29.061975,Paciente 110,Endoscopia,0.0,Glosado,Falta de documentação
+GH2024000112,Bradesco,2025-09-06 20:04:29.062137,Paciente 112,Glicemia,306.67,Pago,
+GH2024000113,Amil,2025-08-26 20:04:29.062222,Paciente 113,Exame ECG,236.69,Pago,
+GH2024000114,Bradesco,2025-08-31 20:04:29.062305,Paciente 114,Hemograma Completo,1047.29,Pago,
+GH2024000115,NotreDame,2025-08-30 20:04:29.062387,Paciente 115,Glicemia,1309.04,Pago,
+GH2024000116,Amil,2025-09-07 20:04:29.062470,Paciente 116,Endoscopia,752.56,Pago,
+GH2024000117,Bradesco,2025-09-05 20:04:29.062553,Paciente 117,Glicemia,103.19,Pago,
+GH2024000118,SulAmerica,2025-09-01 20:04:29.062635,Paciente 118,Ureia e Creatinina,205.4,Pago,
+GH2024000119,Unimed,2025-08-27 20:04:29.062718,Paciente 119,Consulta Ortopedia,314.31,Pago,
+GH2024000120,Bradesco,2025-08-28 20:04:29.062801,Paciente 120,Hemograma Completo,1341.26,Pago,
+GH2024000121,SulAmerica,2025-08-30 20:04:29.062885,Paciente 121,Exame ECG,176.03,Pago,
+GH2024000122,Unimed,2025-09-01 20:04:29.062968,Paciente 122,Ultrassom Abdomen,599.22,Pago,
+GH2024000123,Bradesco,2025-08-31 20:04:29.063050,Paciente 123,Endoscopia,772.46,Pago,
+GH2024000124,NotreDame,2025-08-29 20:04:29.063135,Paciente 124,Ressonancia Magnetica,406.64,Pago,
+GH2024000125,Unimed,2025-08-30 20:04:29.063217,Paciente 125,Ultrassom Abdomen,810.54,Pago,
+GH2024000126,Bradesco,2025-09-03 20:04:29.063299,Paciente 126,Ureia e Creatinina,1380.22,Pago,
+GH2024000127,SulAmerica,2025-09-05 20:04:29.063381,Paciente 127,Exame ECG,857.31,Pago,
+GH2024000128,Amil,2025-09-06 20:04:29.063463,Paciente 128,Ressonancia Magnetica,1453.59,Pago,
+GH2024000129,Amil,2025-09-01 20:04:29.063545,Paciente 129,Ureia e Creatinina,0.0,Glosado,Procedimento não coberto
+GH2024000130,SulAmerica,2025-08-26 20:04:29.063649,Paciente 130,Colesterol Total,911.13,Pago,
+GH2024000131,NotreDame,2025-09-08 20:04:29.063731,Paciente 131,Glicemia,0.0,Glosado,Prazo de envio vencido
+GH2024000132,Unimed,2025-09-07 20:04:29.063833,Paciente 132,Hemograma Completo,0.0,Glosado,Procedimento não coberto
+GH2024000133,Unimed,2025-09-04 20:04:29.063935,Paciente 133,Ureia e Creatinina,1739.15,Pago com Divergência,Co-participação aplicada
+GH2024000134,Unimed,2025-09-02 20:04:29.064069,Paciente 134,Ureia e Creatinina,419.92,Pago com Divergência,Valor não conferido
+GH2024000135,NotreDame,2025-09-03 20:04:29.064204,Paciente 135,Colesterol Total,1203.14,Pago,
+GH2024000136,NotreDame,2025-08-31 20:04:29.064287,Paciente 136,Ultrassom Abdomen,1217.45,Pago com Divergência,Valor tabela diferente
+GH2024000137,NotreDame,2025-09-07 20:04:29.064421,Paciente 137,Hemograma Completo,728.22,Pago com Divergência,Desconto contratual
+GH2024000138,SulAmerica,2025-09-07 20:04:29.064555,Paciente 138,Consulta Cardiologia,1134.03,Pago,
+GH2024000139,Unimed,2025-09-06 20:04:29.064638,Paciente 139,Tomografia,821.19,Pago,
+GH2024000140,SulAmerica,2025-08-28 20:04:29.064721,Paciente 140,Ressonancia Magnetica,532.58,Pago,
+GH2024000141,Amil,2025-08-29 20:04:29.064803,Paciente 141,Consulta Cardiologia,741.17,Pago com Divergência,Valor tabela diferente
+GH2024000142,Unimed,2025-09-03 20:04:29.064936,Paciente 142,Consulta Ortopedia,1178.93,Pago,
+GH2024000143,Bradesco,2025-08-27 20:04:29.065023,Paciente 143,Consulta Ortopedia,1321.31,Pago,
+GH2024000144,Amil,2025-08-28 20:04:29.065106,Paciente 144,Endoscopia,925.74,Pago,
+GH2024000145,Amil,2025-09-04 20:04:29.065188,Paciente 145,Exame ECG,67.69,Pago,
+GH2024000146,SulAmerica,2025-08-30 20:04:29.065271,Paciente 146,Consulta Ortopedia,1248.86,Pago,
+GH2024000147,Bradesco,2025-09-01 20:04:29.065353,Paciente 147,Colesterol Total,272.36,Pago,
+GH2024000148,Unimed,2025-09-04 20:04:29.065435,Paciente 148,Endoscopia,1314.58,Pago,
+GH2024000149,Bradesco,2025-09-05 20:04:29.065517,Paciente 149,Ureia e Creatinina,0.0,Glosado,Código incorreto
+GH2024000150,Unimed,2025-08-30 20:04:29.065619,Paciente 150,Colesterol Total,703.72,Pago,
+GH2024000151,Amil,2025-08-31 20:04:29.065701,Paciente 151,Tomografia,1385.22,Pago,
+GH2024000152,NotreDame,2025-08-26 20:04:29.065784,Paciente 152,Hemograma Completo,1129.16,Pago,
+GH2024000153,Bradesco,2025-08-29 20:04:29.065866,Paciente 153,Ultrassom Abdomen,627.34,Pago,
+GH2024000154,Bradesco,2025-08-27 20:04:29.065948,Paciente 154,Exame ECG,747.21,Pago,
+GH2024000155,SulAmerica,2025-09-05 20:04:29.066030,Paciente 155,Ressonancia Magnetica,305.76,Pago,
+GH2024000156,Unimed,2025-08-30 20:04:29.066113,Paciente 156,Colesterol Total,966.78,Pago,
+GH2024000157,Unimed,2025-08-28 20:04:29.066199,Paciente 157,Hemograma Completo,239.0,Pago com Divergência,Co-participação aplicada
+GH2024000158,NotreDame,2025-09-04 20:04:29.066334,Paciente 158,Consulta Cardiologia,387.53,Pago com Divergência,Desconto contratual
+GH2024000159,SulAmerica,2025-09-02 20:04:29.066473,Paciente 159,Ultrassom Abdomen,445.29,Pago com Divergência,Desconto contratual
+GH2024000161,Amil,2025-08-27 20:04:29.066803,Paciente 161,Exame ECG,770.67,Pago,
+GH2024000162,NotreDame,2025-08-30 20:04:29.066903,Paciente 162,Tomografia,1142.21,Pago,
+GH2024000163,Amil,2025-09-06 20:04:29.066996,Paciente 163,Tomografia,0.0,Glosado,Autorização inválida
+GH2024000164,Unimed,2025-09-04 20:04:29.067109,Paciente 164,Ultrassom Abdomen,385.06,Pago,
+GH2024000165,Unimed,2025-09-02 20:04:29.067193,Paciente 165,Consulta Ortopedia,308.89,Pago,
+GH2024000166,SulAmerica,2025-09-03 20:04:29.067277,Paciente 166,Raio-X Torax,1419.39,Pago,
+GH2024000167,Bradesco,2025-08-28 20:04:29.067359,Paciente 167,Glicemia,173.99,Pago,
+GH2024000168,NotreDame,2025-09-05 20:04:29.067443,Paciente 168,Raio-X Torax,785.79,Pago com Divergência,Desconto contratual
+GH2024000169,Amil,2025-08-26 20:04:29.067580,Paciente 169,Glicemia,1246.41,Pago,
+GH2024000170,Amil,2025-09-04 20:04:29.067665,Paciente 170,Consulta Ortopedia,514.92,Pago com Divergência,Desconto contratual
+GH2024000171,SulAmerica,2025-09-01 20:04:29.067813,Paciente 171,Glicemia,1041.51,Pago com Divergência,Co-participação aplicada
+GH2024000172,SulAmerica,2025-09-06 20:04:29.067961,Paciente 172,Tomografia,1209.79,Pago,
+GH2024000173,Unimed,2025-08-28 20:04:29.068045,Paciente 173,Exame ECG,968.54,Pago,
+GH2024000174,SulAmerica,2025-08-26 20:04:29.068127,Paciente 174,Raio-X Torax,241.8,Pago,
+GH2024000175,SulAmerica,2025-09-01 20:04:29.068215,Paciente 175,Exame ECG,818.01,Pago,
+GH2024000176,NotreDame,2025-08-26 20:04:29.068303,Paciente 176,Ressonancia Magnetica,1253.13,Pago,
+GH2024000178,NotreDame,2025-09-05 20:04:29.068449,Paciente 178,Glicemia,1375.9,Pago,
+GH2024000179,Bradesco,2025-08-27 20:04:29.068531,Paciente 179,Colesterol Total,317.34,Pago,
+GH2024000180,NotreDame,2025-09-02 20:04:29.068618,Paciente 180,Endoscopia,683.93,Pago,
+GH2024000181,Bradesco,2025-09-08 20:04:29.068701,Paciente 181,Endoscopia,985.88,Pago com Divergência,Valor não conferido
+GH2024000182,Amil,2025-08-28 20:04:29.068843,Paciente 182,Ultrassom Abdomen,1270.22,Pago,
+GH2024000183,Bradesco,2025-08-29 20:04:29.068931,Paciente 183,Glicemia,663.88,Pago com Divergência,Co-participação aplicada
+GH2024000184,Unimed,2025-09-08 20:04:29.069079,Paciente 184,Colesterol Total,917.51,Pago,
+GH2024000185,Amil,2025-09-05 20:04:29.069168,Paciente 185,Ultrassom Abdomen,444.61,Pago,
+GH2024000186,Unimed,2025-08-29 20:04:29.069258,Paciente 186,Glicemia,946.18,Pago com Divergência,Desconto contratual
+GH2024000187,SulAmerica,2025-08-29 20:04:29.069392,Paciente 187,Consulta Ortopedia,1035.54,Pago com Divergência,Co-participação aplicada
+GH2024000188,Unimed,2025-08-31 20:04:29.069525,Paciente 188,Hemograma Completo,987.66,Pago,
+GH2024000189,Bradesco,2025-08-30 20:04:29.069608,Paciente 189,Glicemia,902.98,Pago,
+GH2024000190,Bradesco,2025-08-27 20:04:29.069690,Paciente 190,Consulta Ortopedia,1109.98,Pago,
+GH2024000191,SulAmerica,2025-08-26 20:04:29.069772,Paciente 191,Exame ECG,1243.37,Pago com Divergência,Valor tabela diferente
+GH2024000192,SulAmerica,2025-08-29 20:04:29.069907,Paciente 192,Tomografia,103.66,Pago,
+GH2024000193,Amil,2025-09-04 20:04:29.069990,Paciente 193,Exame ECG,1333.25,Pago,
+GH2024000194,Amil,2025-09-06 20:04:29.070071,Paciente 194,Endoscopia,832.26,Pago,
+GH2024000195,Bradesco,2025-09-06 20:04:29.070153,Paciente 195,Glicemia,1321.16,Pago,
+GH2024000196,Bradesco,2025-09-04 20:04:29.070238,Paciente 196,Colesterol Total,1318.32,Pago,
+GH2024000197,Amil,2025-09-04 20:04:29.070319,Paciente 197,Consulta Cardiologia,632.8,Pago,
+GH2024000198,Amil,2025-09-04 20:04:29.070401,Paciente 198,Hemograma Completo,1164.0,Pago,
+GH2024000199,NotreDame,2025-08-30 20:04:29.070482,Paciente 199,Consulta Cardiologia,147.13,Pago com Divergência,Desconto contratual
+GH2024000200,Bradesco,2025-09-06 20:04:29.070626,Paciente 200,Hemograma Completo,0.0,Glosado,Falta de documentação
+GH2024000201,Unimed,2025-09-05 20:04:29.070728,Paciente 201,Endoscopia,207.39,Pago com Divergência,Co-participação aplicada
+GH2024000202,SulAmerica,2025-08-28 20:04:29.070873,Paciente 202,Exame ECG,292.2,Pago,
+GH2024000203,NotreDame,2025-09-05 20:04:29.070957,Paciente 203,Consulta Ortopedia,1254.43,Pago,
+GH2024000204,Bradesco,2025-09-05 20:04:29.071046,Paciente 204,Consulta Cardiologia,1438.04,Pago,
+GH2024000205,Unimed,2025-09-01 20:04:29.071137,Paciente 205,Ultrassom Abdomen,916.05,Pago,
+GH2024000206,SulAmerica,2025-08-26 20:04:29.071219,Paciente 206,Exame ECG,1059.23,Pago,
+GH2024000207,NotreDame,2025-09-02 20:04:29.071304,Paciente 207,Hemograma Completo,909.76,Pago,
+GH2024000208,Unimed,2025-08-28 20:04:29.071386,Paciente 208,Ultrassom Abdomen,445.79,Pago,
+GH2024000209,Bradesco,2025-08-30 20:04:29.071468,Paciente 209,Glicemia,856.66,Pago com Divergência,Co-participação aplicada
+GH2024000210,Bradesco,2025-08-31 20:04:29.071605,Paciente 210,Ureia e Creatinina,590.4,Pago,
+GH2024000211,Bradesco,2025-08-28 20:04:29.071695,Paciente 211,Ressonancia Magnetica,1011.56,Pago com Divergência,Valor não conferido
+GH2024000212,NotreDame,2025-09-05 20:04:29.071831,Paciente 212,Exame ECG,767.96,Pago,
+GH2024000213,Bradesco,2025-08-29 20:04:29.071914,Paciente 213,Endoscopia,1010.06,Pago,
+GH2024000214,SulAmerica,2025-09-05 20:04:29.071996,Paciente 214,Endoscopia,405.66,Pago,
+GH2024000215,NotreDame,2025-08-29 20:04:29.072079,Paciente 215,Hemograma Completo,1398.63,Pago,
+GH2024000216,Amil,2025-09-07 20:04:29.072161,Paciente 216,Consulta Ortopedia,1327.26,Pago,
+GH2024000217,Bradesco,2025-08-29 20:04:29.072246,Paciente 217,Colesterol Total,457.81,Pago com Divergência,Desconto contratual
+GH2024000218,Bradesco,2025-09-04 20:04:29.072380,Paciente 218,Ureia e Creatinina,0.0,Glosado,Autorização inválida
+GH2024000219,Unimed,2025-09-01 20:04:29.072482,Paciente 219,Endoscopia,298.7,Pago com Divergência,Valor tabela diferente
+GH2024000220,SulAmerica,2025-09-04 20:04:29.072616,Paciente 220,Tomografia,834.84,Pago,
+GH2024000221,NotreDame,2025-09-06 20:04:29.072701,Paciente 221,Ressonancia Magnetica,1408.98,Pago,
+GH2024000222,SulAmerica,2025-09-04 20:04:29.072782,Paciente 222,Ureia e Creatinina,118.13,Pago com Divergência,Desconto contratual
+GH2024000223,Bradesco,2025-09-04 20:04:29.072920,Paciente 223,Colesterol Total,1286.0,Pago,
+GH2024000224,Amil,2025-08-31 20:04:29.073004,Paciente 224,Colesterol Total,238.63,Pago,
+GH2024000225,SulAmerica,2025-09-08 20:04:29.073089,Paciente 225,Ressonancia Magnetica,589.16,Pago,
+GH2024000226,Amil,2025-09-05 20:04:29.073172,Paciente 226,Ultrassom Abdomen,704.51,Pago,
+GH2024000227,NotreDame,2025-08-31 20:04:29.073260,Paciente 227,Raio-X Torax,1267.92,Pago,
+GH2024000228,SulAmerica,2025-09-02 20:04:29.073343,Paciente 228,Ultrassom Abdomen,0.0,Glosado,Falta de documentação
+GH2024000229,NotreDame,2025-08-27 20:04:29.073457,Paciente 229,Consulta Ortopedia,975.86,Pago,
+GH2024000230,Unimed,2025-08-28 20:04:29.073540,Paciente 230,Ureia e Creatinina,1100.41,Pago,
+GH2024000231,Unimed,2025-08-31 20:04:29.073622,Paciente 231,Ureia e Creatinina,779.39,Pago com Divergência,Valor tabela diferente
+GH2024000232,Amil,2025-09-03 20:04:29.073756,Paciente 232,Hemograma Completo,1309.5,Pago,
+GH2024000233,Bradesco,2025-09-07 20:04:29.073839,Paciente 233,Tomografia,958.02,Pago,
+GH2024000234,Amil,2025-09-04 20:04:29.073921,Paciente 234,Ultrassom Abdomen,318.92,Pago,
+GH2024000235,Amil,2025-09-03 20:04:29.074003,Paciente 235,Ressonancia Magnetica,377.03,Pago,
+GH2024000236,NotreDame,2025-09-07 20:04:29.074085,Paciente 236,Exame ECG,844.52,Pago com Divergência,Valor não conferido
+GH2024000237,NotreDame,2025-08-27 20:04:29.074224,Paciente 237,Exame ECG,745.91,Pago,
+GH2024000238,Unimed,2025-08-28 20:04:29.074312,Paciente 238,Ureia e Creatinina,826.55,Pago com Divergência,Valor não conferido
+GH2024000239,Unimed,2025-08-29 20:04:29.074457,Paciente 239,Ureia e Creatinina,1480.66,Pago,
+GH2024000240,Bradesco,2025-09-06 20:04:29.074540,Paciente 240,Exame ECG,523.37,Pago,
+GH2024000241,Unimed,2025-09-02 20:04:29.074622,Paciente 241,Raio-X Torax,625.69,Pago com Divergência,Co-participação aplicada
+GH2024000242,Bradesco,2025-08-26 20:04:29.074759,Paciente 242,Glicemia,1210.85,Pago,
+GH2024000243,Unimed,2025-09-01 20:04:29.074847,Paciente 243,Colesterol Total,161.08,Pago com Divergência,Desconto contratual
+GH2024000244,Unimed,2025-08-28 20:04:29.074980,Paciente 244,Hemograma Completo,0.0,Glosado,Código incorreto
+GH2024000245,Amil,2025-09-01 20:04:29.075089,Paciente 245,Colesterol Total,0.0,Glosado,Autorização inválida
+GH2024000246,Bradesco,2025-09-08 20:04:29.075194,Paciente 246,Glicemia,523.12,Pago com Divergência,Valor tabela diferente
+GH2024000247,SulAmerica,2025-09-06 20:04:29.075330,Paciente 247,Ressonancia Magnetica,910.25,Pago,
+GH2024000248,Bradesco,2025-09-08 20:04:29.075422,Paciente 248,Tomografia,0.0,Glosado,Autorização inválida
+GH2024000249,SulAmerica,2025-09-03 20:04:29.075525,Paciente 249,Exame ECG,80.25,Pago,
+GH2024000250,Unimed,2025-09-02 20:04:29.075608,Paciente 250,Ultrassom Abdomen,168.21,Pago,
+GH2024000251,Unimed,2025-09-07 20:04:29.075695,Paciente 251,Ureia e Creatinina,211.81,Pago com Divergência,Valor tabela diferente
+GH2024000253,Bradesco,2025-08-30 20:04:29.075888,Paciente 253,Ultrassom Abdomen,889.08,Pago,
+GH2024000254,Amil,2025-08-28 20:04:29.075971,Paciente 254,Exame ECG,1199.79,Pago,
+GH2024000255,Bradesco,2025-09-05 20:04:29.076054,Paciente 255,Ureia e Creatinina,424.61,Pago com Divergência,Valor não conferido
+GH2024000256,Unimed,2025-08-26 20:04:29.076193,Paciente 256,Glicemia,870.36,Pago com Divergência,Co-participação aplicada
+GH2024000257,Bradesco,2025-09-03 20:04:29.076326,Paciente 257,Consulta Ortopedia,1288.86,Pago,
+GH2024000258,Unimed,2025-09-02 20:04:29.076411,Paciente 258,Exame ECG,169.32,Pago com Divergência,Valor tabela diferente
+GH2024000259,Bradesco,2025-09-07 20:04:29.076545,Paciente 259,Consulta Ortopedia,0.0,Glosado,Código incorreto
+GH2024000261,Amil,2025-09-08 20:04:29.076764,Paciente 261,Hemograma Completo,674.79,Pago,
+GH2024000262,Unimed,2025-09-01 20:04:29.076853,Paciente 262,Ressonancia Magnetica,293.05,Pago,
+GH2024000263,NotreDame,2025-08-28 20:04:29.076936,Paciente 263,Consulta Ortopedia,0.0,Glosado,Código incorreto
+GH2024000264,Amil,2025-08-26 20:04:29.077084,Paciente 264,Raio-X Torax,441.14,Pago,
+GH2024000265,NotreDame,2025-09-03 20:04:29.077203,Paciente 265,Tomografia,375.82,Pago,
+GH2024000266,Unimed,2025-08-31 20:04:29.077299,Paciente 266,Ultrassom Abdomen,0.0,Glosado,Prazo de envio vencido
+GH2024000267,SulAmerica,2025-09-02 20:04:29.077409,Paciente 267,Exame ECG,622.25,Pago com Divergência,Desconto contratual
+GH2024000268,SulAmerica,2025-09-04 20:04:29.077563,Paciente 268,Tomografia,1016.95,Pago,
+GH2024000269,Bradesco,2025-08-27 20:04:29.077649,Paciente 269,Endoscopia,1456.37,Pago,
+GH2024000270,NotreDame,2025-08-28 20:04:29.077739,Paciente 270,Ressonancia Magnetica,420.19,Pago,
+GH2024000271,Bradesco,2025-08-29 20:04:29.077855,Paciente 271,Consulta Cardiologia,0.0,Glosado,Código incorreto
+GH2024000272,Unimed,2025-09-06 20:04:29.077968,Paciente 272,Raio-X Torax,1030.94,Pago,
+GH2024000273,NotreDame,2025-08-31 20:04:29.078055,Paciente 273,Glicemia,555.43,Pago,
+GH2024000274,Unimed,2025-08-30 20:04:29.078142,Paciente 274,Hemograma Completo,1043.24,Pago com Divergência,Valor tabela diferente
+GH2024000276,Bradesco,2025-08-31 20:04:29.078359,Paciente 276,Hemograma Completo,509.93,Pago,
+GH2024000277,Unimed,2025-09-07 20:04:29.078444,Paciente 277,Consulta Cardiologia,406.96,Pago com Divergência,Valor não conferido
+GH2024000278,NotreDame,2025-08-29 20:04:29.078586,Paciente 278,Consulta Cardiologia,394.44,Pago,
+GH2024000279,Bradesco,2025-08-28 20:04:29.078669,Paciente 279,Hemograma Completo,0.0,Glosado,Prazo de envio vencido
+GH2024000280,Unimed,2025-09-01 20:04:29.078783,Paciente 280,Consulta Ortopedia,628.29,Pago,
+GH2024000281,Bradesco,2025-09-06 20:04:29.078865,Paciente 281,Colesterol Total,805.79,Pago,
+GH2024000282,NotreDame,2025-08-26 20:04:29.078958,Paciente 282,Hemograma Completo,0.0,Glosado,Autorização inválida
+GH2024000283,SulAmerica,2025-08-28 20:04:29.079061,Paciente 283,Raio-X Torax,422.33,Pago,
+GH2024000284,Amil,2025-08-26 20:04:29.079144,Paciente 284,Endoscopia,451.26,Pago com Divergência,Desconto contratual
+GH2024000285,Bradesco,2025-08-31 20:04:29.079290,Paciente 285,Colesterol Total,228.67,Pago,
+GH2024000286,Unimed,2025-09-07 20:04:29.079386,Paciente 286,Glicemia,1242.67,Pago com Divergência,Valor tabela diferente
+GH2024000287,Unimed,2025-09-03 20:04:29.079523,Paciente 287,Endoscopia,813.42,Pago,
+GH2024000288,NotreDame,2025-08-28 20:04:29.079606,Paciente 288,Ureia e Creatinina,304.58,Pago com Divergência,Desconto contratual
+GH2024000289,NotreDame,2025-09-08 20:04:29.079741,Paciente 289,Endoscopia,1166.42,Pago,
+GH2024000290,Amil,2025-09-07 20:04:29.079825,Paciente 290,Endoscopia,1242.79,Pago,
+GH2024000291,Bradesco,2025-09-01 20:04:29.079913,Paciente 291,Raio-X Torax,267.07,Pago,
+GH2024000292,Amil,2025-09-02 20:04:29.079995,Paciente 292,Consulta Cardiologia,364.27,Pago,
+GH2024000293,SulAmerica,2025-09-05 20:04:29.080078,Paciente 293,Tomografia,842.71,Pago,
+GH2024000294,NotreDame,2025-09-01 20:04:29.080160,Paciente 294,Hemograma Completo,1482.29,Pago,
+GH2024000295,Unimed,2025-09-06 20:04:29.080242,Paciente 295,Colesterol Total,1487.32,Pago,
+GH2024000296,Bradesco,2025-08-31 20:04:29.080325,Paciente 296,Glicemia,1363.01,Pago,
+GH2024000297,SulAmerica,2025-09-04 20:04:29.080409,Paciente 297,Endoscopia,582.09,Pago,
+GH2024000298,NotreDame,2025-09-04 20:04:29.080491,Paciente 298,Ureia e Creatinina,148.04,Pago,
+GH2024000299,NotreDame,2025-09-05 20:04:29.080576,Paciente 299,Ressonancia Magnetica,909.58,Pago,
+GH2024000300,Bradesco,2025-08-28 20:04:29.080659,Paciente 300,Ressonancia Magnetica,0.0,Glosado,Falta de documentação
