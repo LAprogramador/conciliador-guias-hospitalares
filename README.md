@@ -211,7 +211,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para de
 
 ## 👨‍💻 **Sobre o Desenvolvedor**
 
-**Lucas Silva** - *Especialista em Automação Hospitalar*
+**Lucas Henrique** - *Especialista em Automação Hospitalar*
 
 - 💼 5+ anos em faturamento hospitalar
 - 🐍 Python Developer especializado em análise de dados
